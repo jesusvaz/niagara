@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/niagara/static/css/main.4ac8c28c.chunk.css",
+    "main.js": "/niagara/static/js/main.45fe11a5.chunk.js",
+    "main.js.map": "/niagara/static/js/main.45fe11a5.chunk.js.map",
+    "runtime-main.js": "/niagara/static/js/runtime-main.5555af6e.js",
+    "runtime-main.js.map": "/niagara/static/js/runtime-main.5555af6e.js.map",
+    "static/js/2.20a8f0f3.chunk.js": "/niagara/static/js/2.20a8f0f3.chunk.js",
+    "static/js/2.20a8f0f3.chunk.js.map": "/niagara/static/js/2.20a8f0f3.chunk.js.map",
+    "index.html": "/niagara/index.html",
+    "precache-manifest.14c8b231914d3eb4c541997bb19b1eea.js": "/niagara/precache-manifest.14c8b231914d3eb4c541997bb19b1eea.js",
+    "service-worker.js": "/niagara/service-worker.js",
+    "static/css/main.4ac8c28c.chunk.css.map": "/niagara/static/css/main.4ac8c28c.chunk.css.map",
+    "static/js/2.20a8f0f3.chunk.js.LICENSE.txt": "/niagara/static/js/2.20a8f0f3.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/niagara/static/media/Logo.fcd44f6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5555af6e.js",
+    "static/js/2.20a8f0f3.chunk.js",
+    "static/css/main.4ac8c28c.chunk.css",
+    "static/js/main.45fe11a5.chunk.js"
+  ]
+}
